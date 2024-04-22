@@ -3,7 +3,7 @@
 pip install pytube
 pip install moviepy
 ```
-## Star
+## Start
 ```
 python mp4wtxt.py
 ```
